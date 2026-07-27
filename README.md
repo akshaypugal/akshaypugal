@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/akshay-kumar-kolanchi-nathan-04810824a" target="_blank">
+  <a href="www.linkedin.com/in/akshay-kumar-kolanchi-nathan-04810824a](https://www.linkedin.com/in/akshaykolanchi-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/pugal108" target="_blank">
